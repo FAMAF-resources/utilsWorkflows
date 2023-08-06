@@ -1,4 +1,8 @@
 #! /bin/bash
+#
+## @file                update_w_from_parent.sh
+## @author              Valentina Vispo
+## @section LICENSE     Apache
 
 folderToSearch='.github'
 

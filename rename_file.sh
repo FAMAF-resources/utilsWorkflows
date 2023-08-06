@@ -1,4 +1,8 @@
 #! /bin/bash
+#
+## @file                rename_file.sh
+## @author              Valentina Vispo
+## @section LICENSE     Apache
 
 folderToSearch='.github'
 urlParentWorkflow='Por favor agregue el submodulo con el siguiente comando:\n\ngit submodule add git@github.com:FAMAF-resources/parentRepository.git .github\n\nLuego vuelva a correr el script.'
