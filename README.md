@@ -1,13 +1,13 @@
 # How to use
 
 ```bash
-cd utilsWorkkflows
+cd utilsWorkflows
 ```
 
 ```bash
-chmod +x rename_file.sh update_w_from_parent.sh
+chmod +x ./utilsWorkflows/rename_file.sh ./utilsWorkflows/update_w_from_parent.sh
 ```
 
 ```bash
-./update_w_from_parent.sh && ./rename_file.sh
+./utilsWorkflows/update_w_from_parent.sh && ./utilsWorkflows/rename_file.sh
 ```

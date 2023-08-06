@@ -2,7 +2,7 @@ addAssignees: author
 
 addReviewers: true
 
-numberOfReviewers: 1
+numberOfReviewers: 3
 
 reviewers:
   # - shirosweets
