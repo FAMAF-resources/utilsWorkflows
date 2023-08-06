@@ -11,6 +11,7 @@ mkdir -p .github/
 echo -e 'Configurando workflows...\n'
 cp -r parentRepository/ useFolder
 mv useFolder/ .github/workflows
+rm .github/workflows/list_auto_assign.yml
 rm -rf .github/workflows/useFolder/
 rm -rf .github/workflows/.github
 cp utilsWorkflows/labeler.yml .github/
